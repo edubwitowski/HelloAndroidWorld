@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hello Android World</string>
+    <string name="Hello_World">Hello World - My First Android App</string>
+    <string name="action_settings">Settings</string>
+     <string name="Hello">Hello World</string>
+
+</resources>
